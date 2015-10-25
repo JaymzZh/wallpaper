@@ -9,3 +9,7 @@
 # more
 如果运行后提示找不到`vcruntime140.dll`，需要安装[Visual C++ 2015](http://www.microsoft.com/en-us/download/details.aspx?id=48145)
 
+# todo
+* 自启动
+* 更多功能
+* ...

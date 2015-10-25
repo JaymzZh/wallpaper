@@ -122,7 +122,7 @@ def add_hotkey():
     }
 
     def handle_win_home():
-        set_wallpaper('force.jpg')
+        set_wallpaper('background.jpg')
 
     def handle_win_f4():
         user32.PostQuitMessage(0)
